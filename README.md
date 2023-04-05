@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/brooitsfeiskjr" target="blank"><img src="https://img.shields.io/twitter/follow/brooitsfeiskjr?logo=twitter&style=for-the-badge" alt="brooitsfeiskjr" /></a> </p>
 
-- 🔭 I’m currently working on **UENP - North Paraná State University**
 
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Android, Kotlin, Java**
 
-- 📫 How to reach me **luizantonio0125@gmail.com**
+- 📫 How to reach me **tontech.dev@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
