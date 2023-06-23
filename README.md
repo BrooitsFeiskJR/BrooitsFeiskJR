@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/brooitsfeiskjr" target="blank"><img src="https://img.shields.io/twitter/follow/brooitsfeiskjr?logo=twitter&style=for-the-badge" alt="brooitsfeiskjr" /></a> </p>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🚀 Check my Youtube Channel **[here](https://www.youtube.com/@TonTechDev)**
 
-- 💬 Ask me about **Android, Kotlin, Java**
+- 💬 Ask me about **Android, Kotlin, Java, Flutter**
 
 - 📫 How to reach me **tontech.dev@outlook.com**
 
