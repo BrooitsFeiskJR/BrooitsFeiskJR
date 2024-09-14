@@ -1,22 +1,23 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Toninho</h1>
-<h3 align="center">A passionate mobile developer from Brazil. Enthusiast of the best mobile development technologies</h3>
+<h3 align="center">Founder & CEO of LuMa - Digital Software House.</h3> 
+<h3>A passionate mobile developer from Brazil. Enthusiast of the best mobile development technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp"/>
 
 
 
-<p align="left"> <a href="https://twitter.com/brooitsfeiskjr" target="blank"><img src="https://img.shields.io/twitter/follow/brooitsfeiskjr?logo=twitter&style=for-the-badge" alt="brooitsfeiskjr" /></a> </p>
 
+
+- 🌐 Check the website of LuMa - Digital Software House and discover how we can help you with innovative software solutions: **[here](https://goluma.io/)**
 
 - 🚀 Check my Youtube Channel **[here](https://www.youtube.com/@TonTechDev)**
 
-- 💬 Ask me about **Android, Kotlin, Java, Flutter**
+- 💬 Ask me about **Android, Kotlin, Java, Golang**
 
 - 📫 How to reach me **tontech.dev@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/brooitsfeiskjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brooitsfeiskjr" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/luiz-antonio-pereira-7803791a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz antonio pereira" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18959697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18959697" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/brooitsfeiskjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brooitsfeiskjr" height="30" width="40" /></a>
