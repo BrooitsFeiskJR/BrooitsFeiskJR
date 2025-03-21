@@ -1,18 +1,15 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Toninho</h1>
-<h3 align="center">Founder & CEO of LuMa - Digital Software House.</h3> 
-<h3>A passionate mobile developer from Brazil. Enthusiast of the best mobile development technologies</h3>
+<h3>A passionate software engineer from Brazil. Enthusiast of the best of the development technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp"/>
 
 
 
 
 
-- 🌐 Check the website of LuMa - Digital Software House and discover how we can help you with innovative software solutions: **[here](https://goluma.io/)**
-
 - 🚀 Check my Youtube Channel **[here](https://www.youtube.com/@TonTechDev)**
 
-- 💬 Ask me about **Android, Kotlin, Java, Golang**
+- 💬 Ask me about **Golang, Kotlin, Java, Android**
 
 - 📫 How to reach me **tontech.dev@outlook.com**
 
